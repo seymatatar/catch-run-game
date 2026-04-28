@@ -1,3 +1,4 @@
+<img width="800" height="830" alt="catch-run-game" src="https://github.com/user-attachments/assets/400967c1-05e8-46cb-aea9-5202c7045ff8" />
 ## 🕹️ [Oyunu İndirmek İçin Tıklayın (Windows .zip)](https://github.com/seymatatar/catch-run-game/releases/download/v1.0.0/Catch-Run-Game-v1.0.zip)
 # 🚀 Catch-Run Game
 
