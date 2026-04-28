@@ -3,12 +3,20 @@
 # Catch-Run Game 🎮
 Catch-Run, Python kullanılarak geliştirilmiş, donanım hızlandırmalı grafiklere sahip arcade tarzı bir hayatta kalma oyunudur. Bu proje, bir yazılımın fikir aşamasından son kullanıcı dağıtımına (executable) kadar olan tüm süreçlerini deneyimlemek amacıyla geliştirilmiştir.
 
+## 🕹️ Nasıl Oynanır? (Gameplay)
+Catch-Run, reflekslerinize ve stratejik hareketlerinize dayanan hızlı tempolu bir oyundur:
+1. **Kontrol:** Klavyenin WASD tuşlarını kullanarak bir **üçgeni** kontrol edersiniz.
+2. **Kaçış:** Ekrana rastgele ama akıllıca spawn olan **tehlikeli siyah karelerden** kaçmalısınız. Her saniye oyun zorlaşır ve karelerin sayısı değişkendir.
+3. **Puan Toplama:** Hayatta kalmak için sadece kaçmak yetmez! Ekranda beliren **güvenli (safe) hedefleri** "patlatarak" puanınızı artırmalısınız.Unutmayın puanınızın artıp azalma durumuna göre hızınız da değişir.
+4. **Alan Yönetimi:** Spawn algoritması oyuncunun bulunduğu konumu sürekli kontrol eder, bu yüzden kendinize kaçacak güvenli alanlar (safe zones) oluşturmak için dinamik hareket etmelisiniz.
+5. **Amaç:** En yüksek skoru yaparak en uzun süre hayatta kalmak!
+6. 
 ## 🚀 Teknik Özellikler
 - **Grafik Motoru:** `ModernGL` kütüphanesi kullanılarak GPU tabanlı render işlemleri gerçekleştirilmiştir.
 - **Oyun Mantığı:** `Pygame` altyapısı ile etkinlik yönetimi ve ses kontrolü sağlanmıştır.
 - **Dinamik Spawn Sistemi:** Düşman ve güvenli bölgelerin konumu, oyuncunun mevcut koordinatlarına ve ekran alan hesaplamalarına göre anlık olarak belirlenir.
 - **Collision Detection:** Hassas çarpışma algılama algoritmaları ile oyun içi etkileşimler yönetilir.
-- **Deployment:** `PyInstaller` (veya kullandığın araç) ile tüm kütüphane bağımlılıkları derlenerek taşınabilir bir `.exe` haline getirilmiştir.
+- **Deployment:** `PyInstaller` ile tüm kütüphane bağımlılıkları derlenerek taşınabilir bir `.exe` haline getirilmiştir.
 
 ## 🎮 Oyun Hakkında
 Bu oyun, grafik programlama (ModernGL) ve ses motoru entegrasyonunu (Pygame) pratik etmek amacıyla geliştirilmiştir.
