@@ -10,7 +10,8 @@ Catch-Run, reflekslerinize ve stratejik hareketlerinize dayanan hızlı tempolu 
 3. **Puan Toplama:** Hayatta kalmak için sadece kaçmak yetmez! Ekranda beliren **güvenli (safe) hedefleri** "patlatarak" puanınızı artırmalısınız.Unutmayın puanınızın artıp azalma durumuna göre hızınız da değişir.
 4. **Alan Yönetimi:** Spawn algoritması oyuncunun bulunduğu konumu sürekli kontrol eder, bu yüzden kendinize kaçacak güvenli alanlar (safe zones) oluşturmak için dinamik hareket etmelisiniz.
 5. **Amaç:** En yüksek skoru yaparak en uzun süre hayatta kalmak!
-6. 
+
+   
 ## 🚀 Teknik Özellikler
 - **Grafik Motoru:** `ModernGL` kütüphanesi kullanılarak GPU tabanlı render işlemleri gerçekleştirilmiştir.
 - **Oyun Mantığı:** `Pygame` altyapısı ile etkinlik yönetimi ve ses kontrolü sağlanmıştır.
@@ -18,14 +19,8 @@ Catch-Run, reflekslerinize ve stratejik hareketlerinize dayanan hızlı tempolu 
 - **Collision Detection:** Hassas çarpışma algılama algoritmaları ile oyun içi etkileşimler yönetilir.
 - **Deployment:** `PyInstaller` ile tüm kütüphane bağımlılıkları derlenerek taşınabilir bir `.exe` haline getirilmiştir.
 
-## 🎮 Oyun Hakkında
-Bu oyun, grafik programlama (ModernGL) ve ses motoru entegrasyonunu (Pygame) pratik etmek amacıyla geliştirilmiştir.
-- **Grafik:** ModernGL (Vertex & Fragment Shaders)
-- **Ses:** Pygame Mixer
-- **Dil:** Python
 
 ## 🛠️ Kullanılan Teknolojiler
-
 - **Dil:** Python 3.13
 - **Grafik:** ModernGL (Vertex & Fragment Shaders)
 - **Multimedya:** Pygame (Sound & Event Loop)
