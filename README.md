@@ -1,15 +1,19 @@
 # 🎮 Catch-Run Game
+---
+
+## 🕹️ [Click to Download for Windows (.zip)](https://github.com/seymatatar/catch-run-game/releases/download/v1.0.0/Catch-Run-Game-v1.0.zip)
+
+---
 
 <p align="center">
   <a href="#-english">English</a> | 
   <a href="#-turkish">Turkish</a>
 </p>
 
----
 
-## 🕹️ [Click to Download for Windows (.zip)](https://github.com/seymatatar/catch-run-game/releases/download/v1.0.0/Catch-Run-Game-v1.0.zip)
-
----
+<p align="center">
+  <img width="300" height="300" alt="catch-run-game" src="https://github.com/user-attachments/assets/400967c1-05e8-46cb-aea9-5202c7045ff8" />
+</p>
 
 ## 🇺🇸 English
 
@@ -86,6 +90,4 @@ Catch-Run, reflekslerinize ve stratejik hareketlerinize dayanan hızlı tempolu 
 
 ---
 
-<p align="center">
-  <img width="400" height="400" alt="catch-run-game" src="https://github.com/user-attachments/assets/400967c1-05e8-46cb-aea9-5202c7045ff8" />
-</p>
+
